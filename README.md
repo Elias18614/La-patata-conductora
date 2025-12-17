@@ -1,5 +1,5 @@
 
-> Abra esta pagina en [https://elias18614.github.io/la-patata-conductora/](https://elias18614.github.io/la-patata-conductora/)
+> Abra esta pagina en [https://elias18614.github.io/La-patata-conductora/](https://elias18614.github.io/La-patata-conductora/)
 
 ## Usa este proyecto
 
